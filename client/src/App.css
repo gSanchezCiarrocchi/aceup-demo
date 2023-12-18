@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+    gap: 20rem;
+}
+
+.App-header {
+  font-size: 4rem;
+}
+
+.Session-scheduler-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+.login-wrapper {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+}
+
+.login-input {
+  display: flex;
+  gap: 1rem;
+}
+
+.login-button {
+  button {
+    padding: 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+.input-section {
+  display: flex;
+  gap: 1rem;
+}
+.all-inputs {
+  display: flex;
+  gap: 2rem;
+}
+
+.schedule {
+  button {
+    padding: 1.5rem;
+    font-size: 2rem;
+  }
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
