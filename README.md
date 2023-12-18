@@ -53,3 +53,7 @@ because it is outside the scope of this exercise.
     - Add a duration of less than minutes
     - Create a session and then try to schedule a new session for the same coach but starting 10 minutes after.
 - For the specs I included `shoulda-matchers` gem just to simplify them. Also `factory-bot`.
+
+
+## Demo
+  PR to upload videos
